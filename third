@@ -1,0 +1,3 @@
+echo 'creating file to chek webhook update'
+echo 'checking maven webhook project'
+echo 'checking maven build operation'
